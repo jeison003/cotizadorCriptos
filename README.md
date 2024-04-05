@@ -1,7 +1,3 @@
 # Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+Proyecto creado con la finalidad de practicar Vue 3, y el consumo de API, en este caso la API de CryptoCompare. Con esta página podrás consultar datos básicos de la cripto moneda seleccionada de la lista que trae CryptoCompare basada en una de las opciones del tipo de dinero que selecciones.
